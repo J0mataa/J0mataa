@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&&animation=blink&text=Profile&fontSize=50&fontAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&&animation=blink&fontSize=50&fontAlignY=42)
 
-
-
+-----
+<h1 align="center">🎩 Introduce</h1>
+</br>
+</br>
 
 
 <h3 align="center">📺 language</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <!--Python logo-->
   <img src="https://img.shields.io/badge/Java-B20C0C?style=for-the-badge&logo=java&logoColor=white"> <!--JAVA logo-->
@@ -20,15 +21,9 @@
 </p>
 <br/>
 <br/>
-<br/>
-<br/>
-
-
-
 
 
 <h3 align="center">🔩 develop tools</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"> <!--PyCharm logo-->
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black"> <!--ApacheTomcat logo-->
@@ -40,8 +35,8 @@
   <img src="https://img.shields.io/badge/Unity-E7E7E7?style=for-the-badge&logo=Unity&logoColor=black"> <!--Unity logo-->
   <img src="https://img.shields.io/badge/AWS Education-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white"> <!--Amazon AWS logo-->
   <img src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <!--Oracle logo-->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <!--Git logo-->
 </p>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -49,7 +44,6 @@
 
 
 <h3 align="center">📷 design tools</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"> <!--포토샵로고-->
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white"> <!--프리미어로고--> 
@@ -58,9 +52,28 @@
 <br/>
 <br/>
 <br/>
+
+
+<h4 align="center"> Another </h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/OBS Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white"> <!--Obs Studio logo-->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <!--Github logo-->
+</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+-------
+
+
+<h1 align="center">💡 States</h1>
+<br/>
 <br/>
 
 
-<h4> Another </h4>
-
-<img src="https://img.shields.io/badge/OBS Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white"> <!--Obs Studio logo-->
+![J0mataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0mataa&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0mataa&layout=compact&theme=prussian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
