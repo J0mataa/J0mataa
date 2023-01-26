@@ -1,12 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&&animation=blink&fontSize=50&fontAlignY=42)
 
 -----
-<h1 align="center">🎩 Introduce</h1>
+<h1 align="center">Intro</h1>
+</br>
+<p align="center">
+  마타입니다.
+<p>
+</br>
+</br>
+  
+-----
+<h1 align="center">Language & Tools</h1>
 </br>
 </br>
 
 
-<h3 align="center">📺 language</h3>
+<h3 align="center">language</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <!--Python logo-->
   <img src="https://img.shields.io/badge/Java-B20C0C?style=for-the-badge&logo=java&logoColor=white"> <!--JAVA logo-->
@@ -23,7 +32,7 @@
 <br/>
 
 
-<h3 align="center">🔩 develop tools</h3>
+<h3 align="center">develop tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"> <!--PyCharm logo-->
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black"> <!--ApacheTomcat logo-->
@@ -43,7 +52,7 @@
 
 
 
-<h3 align="center">📷 design tools</h3>
+<h3 align="center">design tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"> <!--포토샵로고-->
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white"> <!--프리미어로고--> 
@@ -70,7 +79,7 @@
 -------
 
 
-<h1 align="center">💡 States</h1>
+<h1 align="center">States</h1>
 <br/>
 <br/>
 
