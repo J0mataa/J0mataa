@@ -84,7 +84,9 @@
 <br/>
 
 
-![J0mataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0mataa&show_icons=true&theme=prussian)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0mataa&layout=compact&theme=prussian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 [![J0mataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0mataa)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0mataa&langs_count=10&layout=compact)]()
+
+<!-- 오류 해결 방법 주소
+오류 명: Something went wrong! file an issue at https://tiny.one/readme-stats
+해결 주소: https://inner-game.tistory.com/636 -->
