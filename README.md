@@ -86,3 +86,5 @@
 
 ![J0mataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0mataa&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0mataa&layout=compact&theme=prussian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![J0mataa's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0mataa)]()
